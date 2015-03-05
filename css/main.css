@@ -95,20 +95,26 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+html, body {
+	height: 100%;
+  margin:0;
+  padding:0;
+}
 
+div {
+	width: 100%;
+	margin:auto;
+}
 
+.comics {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+.comics img {
+	width: 800px;
+}
 
 
 /* ==========================================================================
